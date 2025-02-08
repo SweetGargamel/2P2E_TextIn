@@ -1,0 +1,3 @@
+# Ignore all contents of the Test_Codes directory
+Test_Codes/
+jsonfile/
