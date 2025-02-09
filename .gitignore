@@ -1,3 +1,9 @@
 # Ignore all contents of the Test_Codes directory
 Test_Codes/
-jsonfile/
+jsonfile/zd
+Output/
+Output_Extract/
+Output_Table/
+
+*.conf
+
